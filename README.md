@@ -15,7 +15,7 @@ Leaderboard coming soon
 
 ## 🚀 How to Register Your Team
 
-To participate in the ReWTF program and start earning points, you need to register your team in the `registry.yaml` file.
+To participate in the Forte Hacks Leaderbaord and start earning points, you need to register your team in the `registry.yaml` file.
 
 ### 📋 Registration Requirements
 
