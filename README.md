@@ -1,25 +1,17 @@
-# ReWTF
-<p align="center">
-  <img width="500" height="500" alt="ChatGPT Image Aug 28, 2025, 07_28_59 PM" src="https://github.com/user-attachments/assets/b8cd1c47-799d-4e6c-aebe-a18d7ff7872a" />
-</p>
+# Forte Hacks Leaderboard
 
-Great projects are 1% idea and 99% execution, the hardest part is usually just getting started and sticking to it. ReWTF unlocks both points to redeem prizes in the [Rewards Store](https://store.flow.com/minting/contracts/a33764e4-e993-4e64-aef3-6ea823afa991) and 10k+ $FLOW over the month of September for builders. How does it work?
-- **Register** your Project - can be brand new or existing projects you are already working on. Any type of project is eligible (DeFi, gaming, agents etc.)
-- **Build** - commit code as regularly as possible, the more you build the more likely you are to get rewards
-- **Earn** - Get access to 10k+ in $FLOW as well as points to redeem for Macbook Pros, Airpods, digital collectables and more. There are even bonus rewards for the top projects building in public!
+This is a leaderboard tracking and rewarding the most active projects during [Forte Hacks](https://link.flow.com/ForteHacksDevRel) from October 1 - 31st. Builders that have the most unique commit days across the month will recieve a drop of bonus rewards!
 
-It's time to go WTF (with the Flow) again!
+It's time to go WTF (with the Flow) again with Forte Hacks!
 
 ## 🤝 Bonus Rewards!
 
-There are two ways to get significant reward boosts apart from regular development:
-1. Implementing in your app the latest [Forte](https://flow.com/post/forte-introducing-actions-agents-supercharging-composability-and-automation) features ([actions](https://developers.flow.com/blockchain-development-tutorials/flow-actions) and [scheduled transactions](https://developers.flow.com/blockchain-development-tutorials/flow-actions/scheduled-callbacks-introduction)).
-2. Building in Public. The top building in public posts will earn more points as well as bonus $FLOW. In your building in public posts, include #ReWTF and @flow_blockchain as well as @0xSerag.
+Coming soon
 
 
 ## Leaderboard
 
-To see how you rank relative to others and your total points, check out the [leaderboard](https://app.databox.com/datawall/fc5f1f7de13471eac8bd5eb2e3d90a752817ac68a86fd6). 
+Leaderboard coming soon
 
 ## 🚀 How to Register Your Team
 
